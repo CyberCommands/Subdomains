@@ -55,5 +55,7 @@ After a while, it **outputs:**
 ...
 ```
 If you want to output the discovered URLs to a file:
+```
 python3 scanner.py hackthissite.com  -t 10 -o discove.txt
+```
 This will create a new file `discove.txt` that includes the discovered subdomains.
