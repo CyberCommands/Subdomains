@@ -3,7 +3,7 @@
 * This is simple script for scan subdomain of a website written Python 3
 * I created and used this tool for educational purposes only.
 
-Installation
+## Installation
 ```
 git clone https://github.com/CyberCommands/Subdomains.git
 ```
